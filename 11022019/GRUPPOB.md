@@ -1,1 +1,8 @@
 
+La sicurezza informatica
+
+La sicurezza informatica rappresenta l'insieme di mezzi e tecnologie atti alla protezione dei sistemi informatici, all'interno della sicurezza informatica sono coinvolti elementi tecnici, organizzativi, giuridici e umani. Per valutare la sicurezza è necessario individuare minacce, vulnerabilità e rischi associati agli asset informatici, al fine di proteggere da possibili attacchi che potrebbero provocare dannni diretti o indiretti a un'organizzazione.
+Parte della sicurezza informatica è l'analisi del rischio, che parte dall'identificazione dei beni da proteggere, per valutare successivamente possibili minacce in termini di probabilità di occorrenza e danno potenziale (la sua gravità). In base alla stima del rischio si decide se, come e quali contromisure di sicurezza adottare, questa analisi procede tipicamente la fase di messa in esercizio di un sistema informatico.
+Le violazioni possono essere molteplici: vi possono essere tentativi non autorizzati di accesso a zone riservate, furto di identità digitale o di file riservati, utilizzo di risorse che l'utente non dovrebbe potere utilizzare ecc. La sicurezza informatica si occupa anche di prevenire eventuali situazioni di Denial of service (DoS). I DoS sono attacchi sferrati al sistema con l'obiettivo di renderne inutilizzabili alcune risorse in modo da danneggiare gli utenti del sistema. 
+La protezione dagli attacchi informatici viene ottenuta agendo a due livelli principali, sicurezza fisica e logica, per la prima si intendono tecniche e strumenti di tipo difensivo, ossia il complesso di soluzioni tecnico-pratiche il cui obbiettivo e quello di impedire che utenti non autorizzati possano accedere a risorse, sistema, impianti, dispositivi e apparati
+(づ｡◕‿‿◕｡)づ
