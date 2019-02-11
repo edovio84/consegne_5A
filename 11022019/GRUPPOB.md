@@ -1,5 +1,5 @@
 
-La sicurezza informatica
+#La sicurezza informatica
 
 La sicurezza informatica rappresenta l'insieme di mezzi e tecnologie atti alla protezione dei sistemi informatici, all'interno della sicurezza informatica sono coinvolti elementi tecnici, organizzativi, giuridici e umani. Per valutare la sicurezza è necessario individuare minacce, vulnerabilità e rischi associati agli asset informatici, al fine di proteggere da possibili attacchi che potrebbero provocare dannni diretti o indiretti a un'organizzazione.
 Parte della sicurezza informatica è l'analisi del rischio, che parte dall'identificazione dei beni da proteggere, per valutare successivamente possibili minacce in termini di probabilità di occorrenza e danno potenziale (la sua gravità). In base alla stima del rischio si decide se, come e quali contromisure di sicurezza adottare, questa analisi procede tipicamente la fase di messa in esercizio di un sistema informatico.
